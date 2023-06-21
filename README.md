@@ -1,4 +1,4 @@
-# Study 🧐
+# Study🧐
 
 Kaggle 
-site : https://www.kaggle.com/
+- site : https://www.kaggle.com/
