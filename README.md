@@ -1,4 +1,5 @@
 # Study🧐
 
 Kaggle 
-- site : https://www.kaggle.com/
+- https://www.kaggle.com/
+- https://kaggle-kr.tistory.com/32
